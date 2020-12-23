@@ -1,0 +1,19 @@
+table,
+td {
+    background-color: white;
+    color: black;
+    border: 1px solid #333;
+}
+
+th {
+    background-color: white;
+    color: black;
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: white;
+        color: black;
+        border: 1px solid #333;
+}
