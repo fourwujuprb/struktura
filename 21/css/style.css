@@ -1,6 +1,11 @@
-p{width: 100px;
+p{
+  width: 100px;
 height: 100px;
-background-color: red;}
-
-.blue {background-color: blue;}
-.opacity {opacity: 0.5;}
+background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.opacity {
+  opacity: 0.5;
+}
