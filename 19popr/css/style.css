@@ -1,0 +1,18 @@
+body{
+    background-color: #f5f5dd;
+}
+div {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 25px;
+    background-color: rgba(0,0,0,1);
+}
+#drugi {
+    background-color:  rgba(0,0,0,0.75);
+}
+#trzeci {
+    background-color:  rgba(0,0,0,0.5);
+}
+#czwarty {
+    background-color:  rgba(0,0,0,0.25);
+}
