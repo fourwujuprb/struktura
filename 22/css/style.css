@@ -1,4 +1,12 @@
-p{color: red;}
-h1{background-color: hotpink;}
-h3{background-color: green;}
-.kolor {color: white;}
+p{
+  color: red;
+}
+h1{
+  background-color: hotpink;
+}
+h3{
+  background-color: green;
+}
+.kolor {
+  color: white;
+}
